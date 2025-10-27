@@ -1,7 +1,7 @@
 # Simple-calculator-
 A simple python programming calculator, signs used (* + - and /)
 
-... python 
+... python .
 print("simple calculator")
 operator=input("choose operator -,+,/,*: ")
 num1=float(input("enter first number: "))
